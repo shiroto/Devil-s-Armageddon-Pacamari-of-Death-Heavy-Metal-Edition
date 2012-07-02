@@ -1,0 +1,3 @@
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HMEContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HMEContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HMEContent\obj\x86\Debug\DAPOD_HMEContent.contentprojResolveAssemblyReference.cache

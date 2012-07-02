@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2011-04-18T13:17:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GameWon.mp3</Source>
+      <Name>Sounds\GameWon</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\GameWon.xnb</Output>
+      <Extra>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\GameWon.wma</Extra>
+      <Time>2011-06-16T18:13:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\pacamari.png</Source>
+      <Name>Graphics\pacamari</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\pacamari.xnb</Output>
+      <Time>2011-05-30T13:03:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\32x32Member.png</Source>
+      <Name>Graphics\32x32Member</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\32x32Member.xnb</Output>
+      <Time>2011-06-10T11:59:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\chipset.png</Source>
+      <Name>Graphics\chipset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\chipset.xnb</Output>
+      <Time>2011-06-09T11:24:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\16x16Member.png</Source>
+      <Name>Graphics\16x16Member</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\16x16Member.xnb</Output>
+      <Time>2011-06-10T17:17:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Blend.png</Source>
+      <Name>Graphics\Blend</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Blend.xnb</Output>
+      <Time>2011-06-16T17:00:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Combo.png</Source>
+      <Name>Graphics\Combo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Combo.xnb</Output>
+      <Time>2011-06-14T17:14:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Points.png</Source>
+      <Name>Graphics\Points</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Points.xnb</Output>
+      <Time>2011-06-14T17:14:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\PointsName.png</Source>
+      <Name>Graphics\PointsName</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\PointsName.xnb</Output>
+      <Time>2011-06-14T17:47:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\windowed.png</Source>
+      <Name>Graphics\Menu\windowed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\windowed.xnb</Output>
+      <Time>2011-06-16T09:21:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\bgmenu.png</Source>
+      <Name>Graphics\Menu\bgmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\bgmenu.xnb</Output>
+      <Time>2011-06-16T19:00:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\end.png</Source>
+      <Name>Graphics\Menu\end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\end.xnb</Output>
+      <Time>2011-06-16T09:21:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\fullscreen.png</Source>
+      <Name>Graphics\Menu\fullscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\fullscreen.xnb</Output>
+      <Time>2011-06-16T09:21:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\start.png</Source>
+      <Name>Graphics\Menu\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\start.xnb</Output>
+      <Time>2011-06-16T09:21:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\start_1.png</Source>
+      <Name>Graphics\Menu\start_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\start_1.xnb</Output>
+      <Time>2011-06-15T17:13:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\start_2.png</Source>
+      <Name>Graphics\Menu\start_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\start_2.xnb</Output>
+      <Time>2011-06-15T17:13:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\start_3.png</Source>
+      <Name>Graphics\Menu\start_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\start_3.xnb</Output>
+      <Time>2011-06-15T17:13:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\start_4.png</Source>
+      <Name>Graphics\Menu\start_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\start_4.xnb</Output>
+      <Time>2011-06-15T17:13:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\start_5.png</Source>
+      <Name>Graphics\Menu\start_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\start_5.xnb</Output>
+      <Time>2011-06-15T17:13:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu\start_6.png</Source>
+      <Name>Graphics\Menu\start_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Menu\start_6.xnb</Output>
+      <Time>2011-06-15T17:13:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BlendWhite.png</Source>
+      <Name>Graphics\BlendWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\BlendWhite.xnb</Output>
+      <Time>2011-06-16T17:00:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Highscore.png</Source>
+      <Name>Graphics\Highscore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Graphics\Highscore.xnb</Output>
+      <Time>2011-06-16T17:41:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo.wav</Source>
+      <Name>Sounds\Combo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo.xnb</Output>
+      <Time>2011-06-13T16:37:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Dead.wav</Source>
+      <Name>Sounds\Dead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Dead.xnb</Output>
+      <Time>2011-06-13T16:37:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Extra_Life.wav</Source>
+      <Name>Sounds\Extra_Life</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Extra_Life.xnb</Output>
+      <Time>2011-06-13T16:37:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Fruit_Eat.wav</Source>
+      <Name>Sounds\Fruit_Eat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Fruit_Eat.xnb</Output>
+      <Time>2011-06-13T16:37:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Start.wav</Source>
+      <Name>Sounds\Start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Start.xnb</Output>
+      <Time>2011-06-13T16:37:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Awesome.wav</Source>
+      <Name>Sounds\Combo_Awesome</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Awesome.xnb</Output>
+      <Time>2011-06-15T09:52:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Extreme.wav</Source>
+      <Name>Sounds\Combo_Extreme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Extreme.xnb</Output>
+      <Time>2011-06-15T09:52:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Fantastic.wav</Source>
+      <Name>Sounds\Combo_Fantastic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Fantastic.xnb</Output>
+      <Time>2011-06-15T09:52:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Hattisch.wav</Source>
+      <Name>Sounds\Combo_Hattisch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Hattisch.xnb</Output>
+      <Time>2011-06-15T09:52:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Mega.wav</Source>
+      <Name>Sounds\Combo_Mega</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Mega.xnb</Output>
+      <Time>2011-06-15T09:53:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Nice.wav</Source>
+      <Name>Sounds\Combo_Nice</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Nice.xnb</Output>
+      <Time>2011-06-15T09:53:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Sexy.wav</Source>
+      <Name>Sounds\Combo_Sexy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Sexy.xnb</Output>
+      <Time>2011-06-15T09:53:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Spec.wav</Source>
+      <Name>Sounds\Combo_Spec</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Spec.xnb</Output>
+      <Time>2011-06-15T09:53:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Sweet.wav</Source>
+      <Name>Sounds\Combo_Sweet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Sweet.xnb</Output>
+      <Time>2011-06-15T09:53:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combo_Ultra.wav</Source>
+      <Name>Sounds\Combo_Ultra</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Combo_Ultra.xnb</Output>
+      <Time>2011-06-15T09:53:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Cursor.wav</Source>
+      <Name>Sounds\Cursor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Cursor.xnb</Output>
+      <Time>2011-06-16T16:14:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Enter.wav</Source>
+      <Name>Sounds\Enter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\Sounds\Enter.xnb</Output>
+      <Time>2011-06-16T16:15:00+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HMEContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HMEContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shiroto\visual studio 2010\Projects\Devil's Armageddon Pacamari of Death Heavy Metal Edition\DAPOD_HME\DAPOD_HME\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-18T14:26:44.5563866+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,18 @@
+﻿
+TODO:
+- add Highscore list to menu
+
+
+- ADD BLOOD SPLATTERS LATTER IF WE HAVE TIME! LOLOLOLOL!!!
+
+
+DONE:
+- Scaling und Relative Position
+- Kollision mit großen Gegenständen (auch mit scaling etc)
+- HUD
+- music und sounds
+- COMBO VOICE Verbessern mit listen zum speichern, der bereits gesagten sachen.
+- Menu
+
+MAYBE:
+- verschiedene Entities mit einfacher KI (??????)
